@@ -95,6 +95,4 @@ public:
 };
 
 int getSafeIntInput(const std::string& prompt, int minVal, int maxVal);
-void displayAllParkedVehicles(const HashTable& ht);
-void runMenu(HashTable& ht);
 #endif
