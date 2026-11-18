@@ -94,5 +94,4 @@ public:
     void runPerformanceBenchmark(int testSize = 10000);
 };
 
-int getSafeIntInput(const std::string& prompt, int minVal, int maxVal);
 #endif
