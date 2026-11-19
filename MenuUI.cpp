@@ -113,7 +113,7 @@ void ParkingLot::runMenu() {
         cout << "|--------------------------------------------------------------|\n";
         cout << "| [NHOM 2: SO DO & TRA CUU]                                    |\n";
         cout << "|   3. Xem so do bai do xe (Danh sach cho trong)               |\n";
-        cout << "|   4. Liet ke toan bo xe dang do & Thong ke (TV5)             |\n";
+        cout << "|   4. Liet ke toan bo xe dang do & Thong ke                   |\n";
         cout << "|   5. Tra cuu nhanh vị tri xe theo bien so                    |\n";
         cout << "|--------------------------------------------------------------|\n";
         cout << "| [NHOM 3: QUAN TRI, BAO CAO & DU LIEU FILE]                   |\n";
